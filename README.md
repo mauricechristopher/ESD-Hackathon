@@ -1,2 +1,2 @@
-# esd-hackathon at 42US
+# 2018 Olympics Hackathon 42/ESD at 42US
 An App Called Quest
